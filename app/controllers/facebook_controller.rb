@@ -1,7 +1,6 @@
 class FacebookController < ApplicationController
-  # skip_before_filter :authenticate!
-  # skip_before_filter :verify_authenticity_token
-  # skip_before_filter :detect_facebook_post!
+  skip_before_filter :verify_authenticity_token
+  skip_before_filter :detect_facebook_post!
 
   def channel
     cache_expire = 1.year
