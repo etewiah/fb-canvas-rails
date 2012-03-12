@@ -12,3 +12,6 @@ This is a sample Facebook Canvas App built with Ruby on Rails 3.2. It demonstrat
 * Sends CSRF token with AJAX requests
 * CJAX script to for PushState. CJAX uses History.js under the hood and was heavily influenced by History.js and PJAX.
 
+## Demo
+
+You can see this code in action at http://apps.facebook.com/fb-canvas-rails
