@@ -1,0 +1,13 @@
+development:
+  app_id: 132113166915210
+  secret_key: 61cf1cffeba518f17652958f20d3f3bf
+  app_url: //fb-canvas-rails.heroku.com
+  fb_url: //apps.facebook.com/fb-canvas-rails
+  channel_url: //fb-canvas-rails.heroku.com/facebook/channel
+
+production:
+  app_id: 132113166915210
+  secret_key: 61cf1cffeba518f17652958f20d3f3bf
+  app_url: //fb-canvas-rails.heroku.com
+  fb_url: //apps.facebook.com/fb-canvas-rails
+  channel_url: //fb-canvas-rails.heroku.com/facebook/channel
